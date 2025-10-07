@@ -1,0 +1,5 @@
+{
+  "name": "Trình Tạo Ảnh Hàng Loạt",
+  "description": "Tạo hàng loạt hình ảnh AI với nhiều bối cảnh khác nhau từ một nhân vật duy nhất, dùng Gemini Nano Banana.",
+  "requestFramePermissions": []
+}
